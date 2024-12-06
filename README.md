@@ -24,7 +24,7 @@ curl -L https://raw.githubusercontent.com/nezhahq/scripts/refs/heads/main/instal
 curl -L https://gitee.com/naibahq/scripts/raw/main/install.sh -o nezha.sh && chmod +x nezha.sh && sudo CN=true ./nezha.sh
 ```
 # 第三步（绑定[cloudflare](https://cloudflare.com)可以开启CDN）
-# 第四步（利用空闲80端口申请网站证书）
+# 第四步（利用闲置80端口申请网站证书）
 
 安装 Acme 脚本
 ```
