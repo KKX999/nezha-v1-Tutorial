@@ -6,6 +6,8 @@
 
 [JollyRoger blog](https://jollyroger.top/sites/320.html)
 
+[全国ICMP Ping监控节点地址分享](https://www.nodeseek.com/post-82748-1)
+
 # 第一步（安装依赖文件）
 ```
 apt install -y curl wget sudo unzip
